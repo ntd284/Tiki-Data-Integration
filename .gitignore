@@ -1,5 +1,5 @@
-Data/
-Src/Check_Remove_duplicate.py
-Src/Create_collection.py
-Src/Mongo_merge.py
-Src/count_Data_in_db.py
+Tiki-Data-Integration/Data/
+Tiki-Data-Integration/Src/Check_Remove_duplicate.py
+Tiki-Data-Integration/Src/Create_collection.py
+Tiki-Data-Integration/Src/Mongo_merge.py
+Tiki-Data-Integration/Src/count_Data_in_db.py
